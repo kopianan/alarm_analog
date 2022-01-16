@@ -1,4 +1,4 @@
-class Utils {
-  static String countKey = 'count';
-  static String isolateName = 'isolate';
-}
+// class Utils {
+//   static String countKey = 'count';
+//   static String isolateName = 'isolate';
+// }
