@@ -28,11 +28,13 @@ environment:
 # versions available, run `flutter pub outdated`.
 dependencies:
   analog_clock: ^0.1.0
+  android_alarm_manager_plus: ^2.0.3
   cupertino_icons: ^1.0.2
   flutter:
     sdk: flutter
   flutter_local_notifications: ^9.2.0
   get_storage: ^2.0.3
+  intl: ^0.17.0
   provider: ^6.0.2
   shared_preferences: ^2.0.12
 
